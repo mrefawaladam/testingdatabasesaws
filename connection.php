@@ -1,8 +1,8 @@
 <?php
 
-    $server   = 'localhost';
-    $username = 'root';
-    $password = '';
+    $server   = 'refadb2.cheqzaofdfyb.us-east-1.rds.amazonaws.com';
+    $username = 'admin';
+    $password = 'adminadmin';
     $database = 'perusahaan';
 
     try {
